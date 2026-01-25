@@ -14,5 +14,6 @@ def main():
     greet_user(' '.join(name))
     name2 = formatted_name(name[0], name[1])
     print(f'Hello {name2}!')
+    print(f'Farewell {name2}! You are a Git master now!')
 
 main()
