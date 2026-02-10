@@ -20,7 +20,7 @@ def wordcount(word):
         '\n'.join(fullText)
     for x in fullText:
         foundlist.append(x.find(word))
-        count += 3
+        count += 1
     print(f'The number of times {word} appeared in the search was {count}')
 
 wordcount('heart')
