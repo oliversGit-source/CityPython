@@ -6,8 +6,8 @@ class Settings:
         # Screen settings
         self.screen_width = 1200
         self.screen_height = 800
-        self.bg_color = (255, 153, 51)
+        self.bg_color = (51, 0, 102)
         # Ship settings
         self.ship_speed = 1.5
-        self.background = '/Users/oliverbutterworth-bakhshi/Desktop/moon_overlay.png'
+        self.background = '/Users/oliverbutterworth-bakhshi/Desktop/alien-and-predator.jpg'
 
